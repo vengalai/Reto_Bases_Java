@@ -79,7 +79,7 @@ También se puede ejecutar `Reto_Torneo.java` directamente desde NetBeans, Intel
 
 ## Diagrama de clases
 
-![Diagrama de clases](IMG/Diagrama_Torneo.png)
+![Diagrama de clases](img/Diagrama_Torneo.png)
 
 ## Relaciones entre clases
 
@@ -158,29 +158,29 @@ La tabla muestra:
 
 Los equipos se ordenan de mayor a menor puntaje. En caso de empate, se ordenan alfabéticamente por nombre.
 
-![Tabla de posiciones](IMG/tabla_posiciones.png)
+![Tabla de posiciones](img/tabla_posiciones.png)
 
 ## Evidencias de ejecución
 
 ### Menú y creación del torneo
 
-![Creación del torneo](IMG/crear_torneo.png)
+![Creación del torneo](img/crear_torneo.png)
 
 ### Registro exitoso de un equipo
 
-![Registro de equipo](IMG/registrar_equipo.png)
+![Registro de equipo](img/registrar_equipo.png)
 
 ### Registro exitoso de un jugador
 
-![Registro de jugador](IMG/registrar_jugador.png)
+![Registro de jugador](img/registrar_jugador.png)
 
 ### Validación de dato inválido
 
-![Validación](IMG/validacion_equipo_inexistente.png)
+![Validación](img/validacion_equipo_inexistente.png)
 
 ### Reporte final
 
-![Reporte final](IMG/reporte_final_torneo.png)
+![Reporte final](img/reporte_final_torneo.png)
 
 ## Prueba funcional realizada
 
